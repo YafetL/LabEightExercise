@@ -28,7 +28,8 @@ const arrow_red2 = document.querySelector('#arrow_red2');
 
 //Function borrowing
 const call_demo = document.querySelector('#call_demo');
-const apply_demo = document.querySelector('#apply_demo');
+// const apply_demo = document.querySelector('#apply_demo');
+const apply_demo = document.getElementById("apply_demo");
 const bind_demo = document.querySelector('#bind_demo');
 
 //ES6 Modules

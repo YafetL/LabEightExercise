@@ -44,7 +44,7 @@ function usingApply() {
 
     //1. Borrow fullName using apply
     //2. Pass apply_demo[as ui_place] and Hi I am ,[as message] as array
-    // Brad.fullName.apply(Jon, apply_demo, ['Hi']);
+    Brad.fullName.apply(Jon,[apply_demo ,'Hi']);
 
 }
 
